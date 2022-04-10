@@ -1,41 +1,43 @@
 ---
 title: "Steven Kyum Kim"
-image: "sigridur.jpg"
+image: "Profile.png"
 links:
-  - label: Resume
-    url: "https://linkedin.com/"
-  - label: Blog
-    url: "https://medium.com/"
-  - label: SoundCloud
-    url: "https://soundcloud.com/"
+  - label: LinkedIn
+    url: "https://linkedin.com/in/stevenkyumkim"
   - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://twitter.com/skykim27"
+  # - label: Twitter
+  #   url: "https://twitter.com/skykim27"
 output:
   postcards::solana
 ---
  
 ## Bio
 
-Steven
+Steven Kyum Kim is a graduate student in Public Administration at Korea University.
 
 ## Education
 
-**Korea University** | Fontainebleau, France
+**Korea University** | Seoul, Korea
 
-M.B.A. | August 2014 - June 2015
+Ph.D. Candidate | Public Adminstration
 
-**The Juilliard School** | New York, NY
+**The KDI School** | Seoul, Korea
 
-B.F.A. in Music Performance | August 2005 - May 2009
+M.P.P | Public Policy
 
-## Experience
+**Cal Poly Pomona** | Pomona, CA, USA
 
-**Freelance** | Live Entertainment Consultant | August 2018 - Present
+B.S. | Urban and Regional Planning
 
-**Cercle** | Producer | August 2018 - Present
+<!-- ## Experience -->
 
-**National Public Radio** | Producer | May 2015 - July 2018
+<!-- **Freelance** | Live Entertainment Consultant | August 2018 - Present -->
 
-**NME Magazine** | Editor | July 2014 - July 2016
+<!-- **Cercle** | Producer | August 2018 - Present -->
 
-**Iceland Symphony Orchestra** | Cellist | October 2009 - June 2014
+<!-- **National Public Radio** | Producer | May 2015 - July 2018 -->
+
+<!-- **NME Magazine** | Editor | July 2014 - July 2016 -->
+
+<!-- **Iceland Symphony Orchestra** | Cellist | October 2009 - June 2014 -->
