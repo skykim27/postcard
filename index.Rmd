@@ -6,15 +6,19 @@ links:
     url: "https://linkedin.com/in/stevenkyumkim"
   - label: Twitter
     url: "https://twitter.com/skykim27"
-  # - label: Twitter
-  #   url: "https://twitter.com/skykim27"
+  - label: ORCiD
+    url: "https://orcid.org/0000-0002-2649-7268"
+  - label: Email
+    url: "mailto:stevenkyumkim@gmail.com"
+  - label: Work email
+    url: "mailto:skykim27@korea.ac.kr"    
 output:
   postcards::solana
 ---
  
 ## Bio
 
-Steven Kyum Kim is a graduate student in Public Administration at Korea University.
+Steven Kyum Kim is a graduate student in Public Administration at Korea University. His focus is in environmental policy in the areas of energy, climate, and sustainable development. 
 
 ## Education
 
