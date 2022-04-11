@@ -16,21 +16,21 @@ output:
   postcards::solana
 ---
  
-## Bio
+## About
 
 Steven Kyum Kim is a graduate student in Public Administration at Korea University. His focus is in environmental policy in the areas of energy, climate, and sustainable development. 
 
 ## Education
 
-**Korea University** | Seoul, Korea
+**[Korea University](https://kupa.korea.ac.kr)** | Seoul, Korea
 
 Ph.D. Candidate | Public Adminstration
 
-**The KDI School** | Seoul, Korea
+**[The KDI School](https://kdischool.ac.kr)** | Seoul, Korea
 
 M.P.P | Public Policy
 
-**Cal Poly Pomona** | Pomona, CA, USA
+**[Cal Poly Pomona](https://www.cpp.edu/env)** | Pomona, CA, USA
 
 B.S. | Urban and Regional Planning
 
